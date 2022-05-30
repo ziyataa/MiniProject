@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_star.xml" value="0.111" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_my_pokemon.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_poke_info.xml" value="0.22142028808593736" />
+        <entry key="app/src/main/res/layout/activity_poke_list.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/activity_pokelist.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/card_pokemon_search.xml" value="0.31321749606051363" />
+        <entry key="app/src/main/res/layout/fragment_my_pokemon.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/layout/item_list_pokemon.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/menu/option_menu.xml" value="0.20833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
